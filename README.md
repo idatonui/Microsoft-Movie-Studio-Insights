@@ -34,10 +34,10 @@ Here's a breakdown of understanding the importance of using these information du
 During this analysis, there are several datasets that will be used from various sources. 
 
 Here are the Sources:
-* [Box Office Mojo](https://www.boxofficemojo.com/){:target="_blank"}
-* [The Movie Database (TMDB)](https://www.themoviedb.org/){:target="_blank"}
-* [IMDb](https://www.imdb.com/){:target="_blank"}
-* [The Numbers](https://www.the-numbers.com/){:target="_blank"}
+* [Box Office Mojo](https://www.boxofficemojo.com/)
+* [The Movie Database (TMDB)](https://www.themoviedb.org/)
+* [IMDb](https://www.imdb.com/)
+* [The Numbers](https://www.the-numbers.com/)
 
 
 
