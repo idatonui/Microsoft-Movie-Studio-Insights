@@ -1,14 +1,11 @@
 # Microsoft-New-Movie-Studio-Insights
 
-### Business Problem
-
-### Overview
-
+## Business Problem
 
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
 
-## 1. Business Understanding
+## Business Understanding
 
 
 Microsoft wants to create a new movie studio. However, lacking expertise in the film production, the goal is to understand the current successful movie trends and identify successful movie genres driving Box Office performance. The findings will aid in shaping the studio's decisions regarding the genres of movie to produce and ensure alignment with the market demands and audience preferences.
@@ -24,23 +21,51 @@ This analysis will answer the following questions:
 ## 2. Data Understanding
 
 
-To better understand Box Office performance and movie industry in general, and address Microsoft business problem, we need to collect and analyze data. During this analysis, there are several datasets that will be used. The datasets contains movies information such as genres, runtime minutes, movie budget, gross income, popularity, movie rating, movie titles and release date.
-
-Here are the datasets files that will be needed for analysis:
-* `bom.movie_gross.csv`
-* `im.db`
-* `rt.movie_info.tsv`
-* `rt.reviews.tsv`
-* `tmbd.movies.csv`
-* `tn.movie_budgets.csv`
-
+To better understand Box Office performance and movie industry in general, and address Microsoft business problem, we need to collect and analyze data. Information that was collected and used for analysis are movie genre, movie titles, movie ratings, movie budgets, popularity, foreign and domestic gross income, runtime and release dates. 
+Here's a breakdown of understanding the importance of using these information during the analysis:
+1. Analyzing genres helps in understanding audience preferences, trends, and market demand. It allows for comparisons between different genres and their performance in terms of ratings, revenue, and budget.
+2. Analyzing ratings helps in assessing audience preferences and predicting potential success at the box office.
+3. Understanding the budgeting aspect is crucial for assessing profitability and financial performance. Analyzing budgets in relation to revenue and ratings provides insights into cost efficiency, profitability, and investment strategies within the film industry.
+4.  Box office revenue, both domestic and foreign, is a significant metric for a movie's success. Analyzing these figures allows for understanding regional preferences, global market penetration, and the overall financial success of a movie.
+5. Runtime influences audience engagement and theater scheduling. Analyzing runtime in relation to ratings and revenue can provide insights into audience preferences for movie length.
+6. Analyzing popularity metrics helps in understanding the buzz around a movie, its reception pre and post-release, and potential audience turnout.
 
 
-## 3. Data Preparation
+During this analysis, there are several datasets that will be used from various sources. 
+
+Here are the Sources:
+* [Box Office Mojo](https://www.boxofficemojo.com/)
+* [The Movie Database (TMDB)](https://www.themoviedb.org/)
+* [IMDb](https://www.imdb.com/)
+* [The Numbers](https://www.the-numbers.com/)
 
 
 
-## 5. Conclusion
+Data Analysis
+After data preparation I was able to study and understand the data. Creating visuals to give a better understanding of the outcome which helped in gaining insights, and to draw meaningful conclusions that will help Microsoft's business problem of creating a new movie studio.
+
+The visuals include bar graphs and a line graph
+1. 
+![Alt text](image.png)
+
+The bar graph shows that movies with Adventure, Animation, and Comedy movie genre is doing well and its the most viewed while History movie genre don't perform so well as it appears its the least viewed.
+
+
+2. 
+![Alt text](image-1.png)
+
+The line graph shows that when movies have longer runtime they get higher ratings while when movies are shorter they get lower ratings. Longer runtime movies create more time to make a compelling storytelling and this makes the audience more interested and enjoy the movie more.
+
+
+3. 
+![Alt text](image-2.png)
+
+
+The graph shows that movies made in English, labelled as "en", are most popular compared to movies in other languages. English movies have a bigger chance to be seen by many international audience, which helps them to be popular and successful.
+
+
+
+Conclusion
 
 From the analysis, here are the observations made:
 
@@ -50,7 +75,7 @@ From the analysis, here are the observations made:
 
 * Movies that use English Language tend to reach international audience because most people around the world speak and understand English. In the analysis it shows that English can be easily accessed by most audience include the international audience.
 
-## 6. Recommendation
+Recommendation
 
 
 I would like to recommend the following to Microsoft:
