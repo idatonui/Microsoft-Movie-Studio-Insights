@@ -18,7 +18,7 @@ This analysis will answer the following questions:
 
 
 
-## 2. Data Understanding
+## Data Understanding
 
 
 To better understand Box Office performance and movie industry in general, and address Microsoft business problem, we need to collect and analyze data. Information that was collected and used for analysis are movie genre, movie titles, movie ratings, movie budgets, popularity, foreign and domestic gross income, runtime and release dates. 
@@ -34,30 +34,39 @@ Here's a breakdown of understanding the importance of using these information du
 During this analysis, there are several datasets that will be used from various sources. 
 
 Here are the Sources:
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [The Movie Database (TMDB)](https://www.themoviedb.org/)
-* [IMDb](https://www.imdb.com/)
-* [The Numbers](https://www.the-numbers.com/)
+* [Box Office Mojo](https://www.boxofficemojo.com/){:target="_blank"}
+* [The Movie Database (TMDB)](https://www.themoviedb.org/){:target="_blank"}
+* [IMDb](https://www.imdb.com/){:target="_blank"}
+* [The Numbers](https://www.the-numbers.com/){:target="_blank"}
 
 
 
-Data Analysis
+## Data Analysis
+
+
 After data preparation I was able to study and understand the data. Creating visuals to give a better understanding of the outcome which helped in gaining insights, and to draw meaningful conclusions that will help Microsoft's business problem of creating a new movie studio.
 
 The visuals include bar graphs and a line graph
+
+
 1. 
+
 ![Alt text](image.png)
+
 
 The bar graph shows that movies with Adventure, Animation, and Comedy movie genre is doing well and its the most viewed while History movie genre don't perform so well as it appears its the least viewed.
 
 
 2. 
+
 ![Alt text](image-1.png)
+
 
 The line graph shows that when movies have longer runtime they get higher ratings while when movies are shorter they get lower ratings. Longer runtime movies create more time to make a compelling storytelling and this makes the audience more interested and enjoy the movie more.
 
 
 3. 
+
 ![Alt text](image-2.png)
 
 
@@ -65,7 +74,8 @@ The graph shows that movies made in English, labelled as "en", are most popular 
 
 
 
-Conclusion
+## Conclusion
+
 
 From the analysis, here are the observations made:
 
@@ -75,7 +85,9 @@ From the analysis, here are the observations made:
 
 * Movies that use English Language tend to reach international audience because most people around the world speak and understand English. In the analysis it shows that English can be easily accessed by most audience include the international audience.
 
-Recommendation
+
+
+## Recommendation
 
 
 I would like to recommend the following to Microsoft:
