@@ -51,7 +51,8 @@ The visuals include bar graphs and a line graph
 
 1. 
 
-![Alt text](image.png)
+![Alt text](https://github.com/idatonui/Microsoft-Movie-Studio-Insights/blob/main/plt%20files/image.png)
+
 
 
 The bar graph shows that movies with Adventure, Animation, and Comedy movie genre is doing well and its the most viewed while History movie genre don't perform so well as it appears its the least viewed.
@@ -59,7 +60,8 @@ The bar graph shows that movies with Adventure, Animation, and Comedy movie genr
 
 2. 
 
-![Alt text](image-1.png)
+![Alt text](https://github.com/idatonui/Microsoft-Movie-Studio-Insights/blob/main/plt%20files/image-1.png)
+
 
 
 The line graph shows that when movies have longer runtime they get higher ratings while when movies are shorter they get lower ratings. Longer runtime movies create more time to make a compelling storytelling and this makes the audience more interested and enjoy the movie more.
@@ -67,7 +69,7 @@ The line graph shows that when movies have longer runtime they get higher rating
 
 3. 
 
-![Alt text](image-2.png)
+![Alt text](https://github.com/idatonui/Microsoft-Movie-Studio-Insights/blob/main/plt%20files/image-2.png)
 
 
 The graph shows that movies made in English, labelled as "en", are most popular compared to movies in other languages. English movies have a bigger chance to be seen by many international audience, which helps them to be popular and successful.
